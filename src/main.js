@@ -12,7 +12,6 @@ import Menu from 'primevue/menu';
 import Tooltip from 'primevue/tooltip';
 import Card from 'primevue/card';
 
-
 const app = createApp(App);
 
 app.component('InputText', InputText);
