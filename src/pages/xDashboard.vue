@@ -260,10 +260,10 @@
 
 <script>
 export default {
-  name: "Dashboard"
+  name: "xDashboard"
 }
 </script>
 
 <style>
-  
+
 </style>
